@@ -9,9 +9,7 @@
 * * *
 
 
-**Entre** [nome da sua empresa]
-
-**e** [nome do cliente].
+**Entre** [nome da sua empresa] **e** [nome do cliente].
 
 ### Resumo:
 
@@ -86,37 +84,29 @@ Nós não queremos, de forma alguma, limitar a sua possibilidade de mudar de ide
 
 ### A parte que tem termos jurídicos
 
-Realizaremos nosso trabalho de acordo com boas práticas da indústria e no padrão de qualidade esperado de alguém com qualificações adequadas e com experiência relevante.
+Realizaremos nosso trabalho de acordo com boas práticas do mercado e no padrão de qualidade esperado de alguém com qualificações adequadas e com experiência relevante.
 
-  We’ll carry out our work in accordance with good industry practice and at the standard expected from a suitably qualified person with relevant experience.
-  
 Dito isso, não podemos garantir que o nosso trabalho estará livre de erros, e portanto não podemos ser responsabilizados por você ou por terceiros por danos, incluindo cessação de lucros ou outros tipos de danos incidentais, consequenciais ou especiais, mesmo que você tenha nos informado deles. 
 
-  That said, we can’t guarantee that our work will be error-free and so we can’t be liable to you or any third-party for damages, including lost profits, lost savings or other incidental, consequential or special damages, even if you’ve advised us of them.
-
-Sua responsabilidade para com nós também será limitada à quantidade e valores de pagamentos especificados neste contrato, e você não poderá ser responsabilizado por nós ou por terceiros por danos, incluindo cessação de lucros ou outros tipos de danos incidentais, consequenciais ou especiais, mesmo que nós tenhamos os informado deles.
-
-  Your liability to us will also be limited to the amount of fees payable under this contract and you won’t be liable to us or any third-party for damages, including lost profits, lost savings or other incidental, consequential or special damages, even if we’ve advised you of them.
+Sua responsabilidade para conosco também será limitada aos valores e quantidade de pagamentos especificados neste contrato, e você não será responsabilizado por nós ou por terceiros por danos, incluindo cessação de lucros ou outros tipos de danos incidentais, consequenciais ou especiais, mesmo que você tenha sido informado deles.
 
 Finalmente, se qualquer cláusula deste contrato for considerada ilegal, inválida, ou por qualquer motivo não possa ser considerada executável, tal cláusula será considerada separável deste contrato e não afetará a validade ou executabilidade das demais cláusulas. 
 
-  Finally, if any provision of this contract shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this contract and shall not affect the validity and enforceability of any remaining provisions.
-
 Ufa.
 
-### Intellectual property rights
+### Direitos de Propriedade Intelectual
 
-Just to be clear, “Intellectual property rights” means all patents, rights to inventions, copyright (including rights in software) and related rights, trademarks, service marks, get up and trade names, internet domain names, rights to goodwill or to sue for passing off, rights in designs, database rights, rights in confidential information (including know-how) and any other intellectual property rights, in each case whether registered or unregistered and including all applications (or rights to apply) for, and renewals or extensions of, such rights and all similar or equivalent rights or forms of protection which subsist or shall subsist now or in the future in any part of the world.
+Apenas deixando claro, “direitos de propriedade intelectual” significa todas as patentes, direitos sobre as invenções, direitos autorais (incluindo direitos sobre software) e direitos relacionados, marcas comerciais, marcas de serviço, nomes comerciais, nomes de domínio de internet, direito ao uso de imagem e de processar pelo uso indevido da mesma, direitos sobre design, direitos sobre os bancos de dados, direitos sobre informações confidenciais (incluindo know-how) e quaisquer outros direitos de propriedade intelectual, em cada caso, registrado ou não, e incluindo todas as aplicações (ou direitos de aplicação) deles, assim como renovações ou extensões dos mesmos, além de todos os direitos similares ou equivalentes ou formas de proteção que existam ou venham a existir em qualquer parte do mundo.
 
-Blimey.
+Eita.
 
-First, you guarantee that all elements of text, images or other artwork you provide are either owned by your good selves, or that you’ve permission to use them. When you provide text, images or other artwork to us, you agree to protect us from any claim by a third party that we’re using their intellectual property.
+Primeiro, você garante ser possuidor ou ter permissão de uso para todos os elementos de texto, imagens e outros trabalhos de arte que você fornecer. Quando você fornecer textos, imagens e outros trabalhos de arte para nós, você concorda em responder por quaisquer reclamações de terceiros por estarmos usando as propriedades intelectuais dos mesmos.
 
-We guarantee that all elements of the work we deliver to you are either owned by us or we’ve obtained permission to provide them to you. When we provide text, images or other artwork to you, we agree to protect you from any claim by a third party that you’re using their intellectual property. Provided you’ve paid for the work and that this contract hasn’t been terminated, we’ll assign all intellectual property rights to you as follows:
+Nós garantimos que todos os elementos do trabalho que entregarmos são de nossa propriedade, ou que tivemos permissão para fornecê-los a você. Quando nós fornecermos textos, imagens ou outros trabalhos de arte a você, nós concordamos em responder por quaisquer eventuais reclamações de terceiros sobre estarmos usando propriedade intelectual deles. Desde que você tenha pago pelo trabalho e que este contrato não tenha sido ainda terminado, nós atribuiremos a você todas as propriedades intelectuais conforme segue:
 
-You’ll own the website we design for you plus the visual elements that we create for it. We’ll give you source files and finished files and you should keep them somewhere safe as we’re not required to keep a copy. You own all intellectual property rights of text, images, site specification and data you provided, unless someone else owns them.
+Você possuirá o site que nós desenvolvemos para você, assim como os elementos visuais criados por nós para ele. Nós lhe daremos os arquivos fonte e os arquivos terminados, e você deverá mantê-los em local seguro, já que não somos obrigados a manter uma cópia. Você possuirá todas as propriedades intelectuais de texto, imagens, especificações do site e dados que você tenha fornecido, a menos que sejam propriedades de terceiros.
 
-We’ll own any intellectual property rights we’ve developed prior to, or developed separately from this project and not paid for by you. We’ll own the unique combination of these elements that constitutes a complete design and we’ll license its use to you, exclusively and in perpetuity for this project only, unless we agree otherwise.
+Nós seremos possuidores de quaisquer direitos de propriedade intelectual que tenhamos desenvolvido anteriormente, ou separadamente deste projeto, e que não tenham sido pagos por você. Será nossa a combinação particular destes elementos que constitui o design completo, e nós licenciaremos seu uso a você, exclusivamente e permanentemente apenas para este projeto, a menos que acordemos de outra forma.
 
 ### Displaying our work
 
